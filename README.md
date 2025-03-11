@@ -1,6 +1,6 @@
 # Useful-websites-every-developer-should-know
 
-The internet is filled with amazing websites, but I have handpicked some of my favorites across various categories that I believe will be especially useful for developers and enhance their productivity
+The internet is filled with amazing websites, here I have handpicked some of my favorites across various categories that I believe will be especially useful for developers and enhance their productivity
 
 ## Various Categories
 
@@ -13,7 +13,7 @@ The internet is filled with amazing websites, but I have handpicked some of my f
 7. [CSS Generators](#css-generators)
 8. [Icons and Photos](#icons)
 9. [Stock photos](#stock-photos)
-10. [Color picker and Palettes](#color-picker-and-palettes)
+10. [Color picker and Palette](#color-picker-and-palette)
 11. [Draw or Write](#draw-or-write)
 12. [Carousel maker](#carousel-maker)
 13. [Flowchart Maker](#flowchart-maker)
