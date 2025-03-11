@@ -42,7 +42,7 @@ The internet is filled with amazing websites, here I have handpicked some of my 
   <b><a href="#various-categories">↥ Back To Top</a></b>
 </div>
 
-## UI/UX Design Inspo
+## UI-UX Design Inspo
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 * [StackSorted](https://stacksorted.com/buttons)
@@ -193,6 +193,8 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 <div align="right">
   <b><a href="#various-categories">↥ Back To Top</a></b>
 </div>
+
+<hr>
 
 **_NOTE: I will keep this repository updated with even more useful links in the future_**
 
