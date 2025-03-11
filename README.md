@@ -4,9 +4,9 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 
 ## Various Categories
 
-1. [Study](#study)
+1. [Tutorials](#tutorials)
 2. [QnA](#qna)
-3. [UI-UX Design Inspo](#ui-ux-design-isnpo)
+3. [UI UX Design Inspo](#ui-ux-design-isnpo)
 4. [UI Design Components](#ui-design-components)
 5. [WireFrame](#wireframe)
 6. [Frontend Practice](#frontend-practice)
@@ -23,7 +23,7 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 17. [Random but useful!](#random-but-useful)
 18. [Technology news](#technology-news)
 
-## Study
+## Tutorials
 * [w3schools](https://www.w3schools.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Mdn Web Docs](https://developer.mozilla.org/en-US/)
