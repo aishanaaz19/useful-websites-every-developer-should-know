@@ -6,7 +6,7 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 
 1. [Study](#study)
 2. [QnA](#qna)
-3. [UI/UX Design Inspo](#ui-ux-design-isnpo)
+3. [UI-UX Design Inspo](#ui-ux-design-isnpo)
 4. [UI Design Components](#ui-design-components)
 5. [WireFrame](#wireframe)
 6. [Frontend Practice](#frontend-practice)
@@ -42,7 +42,7 @@ The internet is filled with amazing websites, here I have handpicked some of my 
   <b><a href="#various-categories">↥ Back To Top</a></b>
 </div>
 
-## UI-UX Design Inspo
+## UI UX Design Inspo
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 * [StackSorted](https://stacksorted.com/buttons)
@@ -198,5 +198,5 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 
 **_NOTE: I will keep this repository updated with even more useful links in the future_**
 
-### If you found this repository helpful, consider giving it a star! Feel free to suggest additional resources as well 🚀✨
+#### If you found this repository helpful, consider giving it a star! Feel free to suggest additional resources as well 🚀✨
 
