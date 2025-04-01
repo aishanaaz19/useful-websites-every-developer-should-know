@@ -229,5 +229,4 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 <hr>
 
 **_NOTE: I will keep this repository updated with even more useful links in the future_**
-
-;;#### If you found this repository helpful, consider giving it a star! Feel free to suggest additional resources as well 🚀✨
+#### If you found this repository helpful, consider giving it a star! Feel free to suggest additional resources as well 🚀✨
