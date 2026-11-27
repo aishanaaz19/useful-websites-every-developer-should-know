@@ -210,6 +210,7 @@ The internet is filled with amazing websites, here I have handpicked some of my 
 * [Get Waves](https://getwaves.io/) _Wave Pattern Generator_
 * [Pattern Monster](https://pattern.monster/) _Pattern Generator_
 * [Hacker Typer](https://hackertyper.com/) _Just a cool website to look like a hacker_
+* [StagePeek](https://stagepeek.live/) _2D & 3D concert seat-view simulator across 201 global venues_
 * [Piktochart](https://piktochart.com/) _Infographic maker_
 
 <div align="right">
